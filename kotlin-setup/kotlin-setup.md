@@ -4,9 +4,9 @@
 
 - Installed IDE
 
-  - **IntelliJ IDEA** (rekomendasi)
-  - **Android Studio**
-  - **VS Code** (nb : klo leptop kentang gk kuat pake Intellij IDE)
+  - **IntelliJ IDEA** (rekomendasi) [Link Download](https://www.jetbrains.com/idea/download/)
+  - **Android Studio** [Link Downliad](https://developer.android.com/studio)
+  - **VS Code** (nb : klo leptop kentang gk kuat pake Intellij IDE) [Link Download](https://code.visualstudio.com/download)
 
     - Installed JDK
       - cek version `java -version`
