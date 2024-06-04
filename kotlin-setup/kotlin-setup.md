@@ -9,10 +9,11 @@
   - **VS Code** (nb : klo leptop kentang gk kuat pake Intellij IDE) [Link Download](https://code.visualstudio.com/download)
 
     - Installed JDK
+      - Download dan Install [Link Download](https://www.oracle.com/id/java/technologies/downloads/)
       - cek version `java -version`
     - Install Kotlin **Command-line compiler**
       - Download [kotlin-compiler-2.0.0.zip](https://github.com/JetBrains/kotlin/releases/tag/v2.0.0)
-      - Ekstrak and replace in Local C
+      - Ekstrak dan replace in Local C
       - Tambahkan PATH **C:\kotlinc\bin** di **System Variables**
       - Cek pada CMD
         ` kotlinc`
