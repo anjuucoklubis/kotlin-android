@@ -6,3 +6,4 @@
 - kotlin-learn [Direct Link to folder **kotlin-learn**](https://github.com/anjuucoklubis/kotlin-android/tree/main/kotlin-learn)
     -   1.kotlin-variable [kotlin-variable.kt](https://github.com/anjuucoklubis/kotlin-android/blob/main/kotlin-learn/1.kotlin-variable.kt)
     -   2.kolin-typesdata [kolin-typesdata.kt](https://github.com/anjuucoklubis/kotlin-android/blob/main/kotlin-learn/2.kotlin-typesdata.kt) 
+    -
